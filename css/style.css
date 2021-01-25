@@ -95,7 +95,7 @@ h6 {font-size:25px; line-height:30px}
 .text-medium {font-size:16px; line-height:23px}
 .text-large {font-size:18px; line-height:26px}
 .text-extra-large {font-size: 20px; line-height:26px}
-.title-large {font-size: 100px; line-height:95px}
+.title-large {font-size: 70px; line-height:95px}
 .title-extra-large {font-size: 130px; line-height:120px}
 
 /* text color */
@@ -273,7 +273,8 @@ a.text-very-light-gray-hover:hover {color:#ededed !important;}
 section {padding: 130px 0; overflow: hidden;}
 section.big-section {padding:160px 0;}
 section.extra-big-section {padding:200px 0;}
-section.half-section {padding:80px 0;}
+section.medium-half-section {padding:80px 0;}
+section.half-section {padding:20px 0;}
 label { margin-bottom: 5px; font-weight: 700; }
 .overlap-section {margin-top:-14%; position: relative}
 .col-2-nth .col-md-6:nth-child(2n+1) {clear: left;}
@@ -1885,6 +1886,7 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 /* screen height  */
 .extra-small-screen {height:300px;}
 .small-screen {height:400px;}
+.one-one-screen {height: 500px;}
 .one-second-screen {height:600px;}
 .one-third-screen {height:700px;}
 .one-fourth-screen {height:800px;}
