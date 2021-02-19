@@ -274,7 +274,7 @@ section {padding: 130px 0; overflow: hidden;}
 section.big-section {padding:160px 0;}
 section.extra-big-section {padding:200px 0;}
 section.medium-half-section {padding:60px 0;}
-section.half-section {padding:20px 0;}
+section.half-section {padding:60px 0;}
 label { margin-bottom: 5px; font-weight: 700; }
 .overlap-section {margin-top:-14%; position: relative}
 .col-2-nth .col-md-6:nth-child(2n+1) {clear: left;}
